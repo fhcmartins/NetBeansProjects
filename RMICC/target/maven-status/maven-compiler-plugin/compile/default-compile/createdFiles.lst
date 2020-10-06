@@ -1,0 +1,8 @@
+rmicc\beans\Banco.class
+rmicc\file\Arquivo.class
+rmicc\beans\Agencia.class
+rmicc\beans\Cliente.class
+rmicc\beans\Endereco.class
+rmicc\beans\Conta.class
+rmicc\beans\Pessoa.class
+rmicc\RMICC.class
